@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
 @RequestMapping("/alo")
-
 public class AloController {
 
     //requisição e respostas (REQUEST E RESPONSA)
