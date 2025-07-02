@@ -18,9 +18,9 @@ public class JogadorController {
 
     @PostMapping
     @Transactional
-    public void cadastrar(@RequestBody DadosCadastroJogador dados){
+    public void cadastrar(@RequestBody NovoJogador jogador){
         //System.out.println(dados);
-        repository.save(new Jogador(dados));
+         return "Jogador " + jogador.getNome() + " cadastrado com sucesso!"
 
     }
 
