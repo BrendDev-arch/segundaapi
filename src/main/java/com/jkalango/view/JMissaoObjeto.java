@@ -1,6 +1,6 @@
-package br.com.jkalango.view;
+package com.jkalango.view;
 import javax.swing.JFrame;
-import br.com.jkalango.bo.IColor;
+
 
 public class JMissaoObjeto extends JFrame implements IColor {
 

@@ -1,4 +1,4 @@
-package br.com.jkalango.dto;
+package com.jkalango.dto;
 
 public class ValorNome {
 

@@ -1,3 +1,4 @@
+-- Active: 1751546840962@@localhost@3307@kalangoweb
 CREATE TABLE jogador(
     id BIGINT NOT NULL auto_increment,
     nome VARCHAR(100) NOT NULL,

@@ -20,7 +20,7 @@ public class JogadorController {
     @Transactional
     public void cadastrar(@RequestBody NovoJogador jogador){
         //System.out.println(dados);
-         return "Jogador " + jogador.getNome() + " cadastrado com sucesso!"
+         return "Jogador " + jogador.getNome() + " cadastrado com sucesso!";
 
     }
 

@@ -1,4 +1,4 @@
-package br.com.jkalango.view; // Mantendo o mesmo pacote
+package com.jkalango.view; // Mantendo o mesmo pacote
 
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;
@@ -64,7 +64,7 @@ public class JIntro extends JFrame {
         iniciarMissaoButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                new JCadastroJogador();
+                new JCadastroJogadorGabarito();
                 dispose();//libera recursos da JIntro.
 
               

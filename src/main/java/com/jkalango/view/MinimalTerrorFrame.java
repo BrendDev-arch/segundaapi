@@ -1,4 +1,4 @@
-package br.com.jkalango.view;
+package com.jkalango.view;
 
 import javax.swing.*;
 import java.net.URL; // Necessário para carregar a imagem de um link

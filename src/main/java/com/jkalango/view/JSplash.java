@@ -1,4 +1,4 @@
-package br.com.jkalango.view;
+package com.jkalango.view;
 import javax.swing.JFrame;
 import javax.swing.JButton;
 import java.awt.FlowLayout;

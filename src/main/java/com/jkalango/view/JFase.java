@@ -1,4 +1,4 @@
-package br.com.jkalango.view;
+package com.jkalango.view;
 import java.awt.Image;
 import javax.swing.ImageIcon;
 

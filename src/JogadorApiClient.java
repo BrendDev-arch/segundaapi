@@ -1,3 +1,4 @@
+package com.jkalango.webapi;
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;// Crie este arquivo em um pacote como 'br.com.jkalango.service'
